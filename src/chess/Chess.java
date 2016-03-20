@@ -1,15 +1,13 @@
 package chess;
-<<<<<<< HEAD
 /**
  * 
  * @author Ben Bancala and Michael Shafran
  *
  */
-=======
+
 
 import java.util.Scanner;
 
->>>>>>> 4dfc8301f2f9e110f28f39435357e795de954e44
 public class Chess {
 
 	public static void main(String[] args) {
