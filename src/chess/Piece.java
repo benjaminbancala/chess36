@@ -15,5 +15,6 @@ public abstract class Piece {
 	public void move(){
 		moved = true;
 	}
+	public abstract boolean validMove(String start, String finish);
 
 }
